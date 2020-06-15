@@ -2,44 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="940129dc-892a-44b5-b490-7c55d5e5dc5b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/place/bloc/bloc_place.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/user/bloc/bloc_user.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/cache.dill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app.dill.incremental.dill" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/last_build_run.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/last_build_run.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/snapshot_blob.bin.d.fingerprint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/button_bar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/button_bar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/button_purple.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/button_purple.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/card_image.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/widgets/card_image.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/card_image_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/widgets/card_image_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/circle_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/circle_button.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/description_place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/widgets/description_place.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/floating_action_button_green.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/floating_action_button_green.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/gradient_back.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/gradient_back.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/header_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/screens/header_appbar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/home_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/screens/home_trips.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/model/place.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/platzi_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/platzi_trips.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/platzi_trips_cupertino.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/platzi_trips_cupertino.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_background.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/profile_background.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_header.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/screens/profile_header.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_place.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/profile_place.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_place_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/profile_place_info.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_places_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/profile_places_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/profile_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/screens/profile_trips.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/review.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/widgets/review.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/review_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/widgets/review_list.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/search_trips.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/place/ui/screens/search_trips.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/user_info.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/user/ui/widgets/user_info.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,5 +130,9 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="445" y="150" width="1022" height="736" key="SettingsEditor/0.0.1920.1030@0.0.1920.1030" timestamp="1592214560016" />
+    <state x="622" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1592252613574">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="622" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1592252613574" />
   </component>
 </project>

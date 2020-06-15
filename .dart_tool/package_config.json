@@ -68,6 +68,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "generic_bloc_provider",
+      "rootUri": "file:///home/edward/Escritorio/flutter/.pub-cache/hosted/pub.dartlang.org/generic_bloc_provider-1.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "image",
       "rootUri": "file:///home/edward/Escritorio/flutter/.pub-cache/hosted/pub.dartlang.org/image-2.1.12",
       "packageUri": "lib/",
@@ -170,7 +176,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2020-06-15T09:49:54.951797Z",
+  "generated": "2020-06-15T20:29:06.864723Z",
   "generator": "pub",
   "generatorVersion": "2.8.2"
 }
