@@ -1,79 +1,360 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/7a3594998a0f9dc5844bf978ea709cc4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/0d1eb1915ae7a42c5bb5fc963ff4aa34/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/a7c9ee06f0fb8a1bf36816355155a608/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/de4ffae62196f650426df0a09cc3ddda/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/74c8d2c9527542aefbd35e6ac3265c69/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bf39593ea77032b12e800bfa2e37b996/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/87b45e0cf001bca56e84a22a2cb31a6c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1ab37583f490099f00f3181609bf7eea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/49cdebae5481943f6d32defdf1e4bd2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c44264311d2204cc9d3ce67d3bcd0648/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5d48359308921fa7b27ea7413c563fdb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/381e7003853d4fc87101f5b0dace5ec3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c82169b05e07aa268f726580a4dbbe68/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/f39265d33c928cdaf4d7cf6276196974/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1fefc43e40a104e5892483644c2ac148/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5e862890438efa7fc98327574ffb5aac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2df7d21ea81f6a32ebee165173c0ed97/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/12ebd5bf97afd37759a17b1176fe0201/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/edward/.gradle/caches/transforms-2/files-2.1/9da6380d5684b9ab6421fe3101952296/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bfdbf37ddc3b687a5d88def2e016172e/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/cfe63d2d67afa5b56d26c5b0e6e6bd60/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:2:5-41
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:1-39:12
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:8:5-66
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:google_sign_in] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:15:5-38:19
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/7a3594998a0f9dc5844bf978ea709cc4/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/7a3594998a0f9dc5844bf978ea709cc4/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/de4ffae62196f650426df0a09cc3ddda/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/de4ffae62196f650426df0a09cc3ddda/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1fefc43e40a104e5892483644c2ac148/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1fefc43e40a104e5892483644c2ac148/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:18:9-43
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:16:9-57
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:16:9-57
 activity#com.anncode.platzitripsapp.MainActivity
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:19:9-37:20
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:19:9-37:20
 	android:launchMode
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:21:13-43
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:21:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:24:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:25:13-55
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:25:13-55
 	android:configChanges
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:23:13-137
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:23:13-137
 	android:theme
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:20:13-41
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:20:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:30:13-32:40
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:30:13-32:40
 	android:value
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:32:17-37
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:32:17-37
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:31:17-82
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:31:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:34:17-68
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:35:17-76
+ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth_web/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/7a3594998a0f9dc5844bf978ea709cc4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/7a3594998a0f9dc5844bf978ea709cc4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/0d1eb1915ae7a42c5bb5fc963ff4aa34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/0d1eb1915ae7a42c5bb5fc963ff4aa34/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/a7c9ee06f0fb8a1bf36816355155a608/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/a7c9ee06f0fb8a1bf36816355155a608/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/de4ffae62196f650426df0a09cc3ddda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/de4ffae62196f650426df0a09cc3ddda/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/74c8d2c9527542aefbd35e6ac3265c69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/74c8d2c9527542aefbd35e6ac3265c69/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bf39593ea77032b12e800bfa2e37b996/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bf39593ea77032b12e800bfa2e37b996/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/87b45e0cf001bca56e84a22a2cb31a6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/87b45e0cf001bca56e84a22a2cb31a6c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1ab37583f490099f00f3181609bf7eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1ab37583f490099f00f3181609bf7eea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/49cdebae5481943f6d32defdf1e4bd2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/49cdebae5481943f6d32defdf1e4bd2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c44264311d2204cc9d3ce67d3bcd0648/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c44264311d2204cc9d3ce67d3bcd0648/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5d48359308921fa7b27ea7413c563fdb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5d48359308921fa7b27ea7413c563fdb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/381e7003853d4fc87101f5b0dace5ec3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/381e7003853d4fc87101f5b0dace5ec3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c82169b05e07aa268f726580a4dbbe68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/c82169b05e07aa268f726580a4dbbe68/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/f39265d33c928cdaf4d7cf6276196974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/f39265d33c928cdaf4d7cf6276196974/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1fefc43e40a104e5892483644c2ac148/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/1fefc43e40a104e5892483644c2ac148/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5e862890438efa7fc98327574ffb5aac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/5e862890438efa7fc98327574ffb5aac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2df7d21ea81f6a32ebee165173c0ed97/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2df7d21ea81f6a32ebee165173c0ed97/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/12ebd5bf97afd37759a17b1176fe0201/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/12ebd5bf97afd37759a17b1176fe0201/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.21.0] /home/edward/.gradle/caches/transforms-2/files-2.1/9da6380d5684b9ab6421fe3101952296/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/edward/.gradle/caches/transforms-2/files-2.1/9da6380d5684b9ab6421fe3101952296/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bfdbf37ddc3b687a5d88def2e016172e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/bfdbf37ddc3b687a5d88def2e016172e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/cfe63d2d67afa5b56d26c5b0e6e6bd60/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/cfe63d2d67afa5b56d26c5b0e6e6bd60/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anahisalgado/Documents/flutter/platzi-curso-avanzado/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/android/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-123
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /home/edward/.gradle/caches/transforms-2/files-2.1/11dde265bfefe6ff748e96c6128ac0ca/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:26:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/edward/.gradle/caches/transforms-2/files-2.1/9da6380d5684b9ab6421fe3101952296/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /home/edward/.gradle/caches/transforms-2/files-2.1/9da6380d5684b9ab6421fe3101952296/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/d74318ebf716eb07ef2e6f8736e71b64/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /home/edward/.gradle/caches/transforms-2/files-2.1/abec5469f842e16458efa9b9307da0fb/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/2f551cf6443e45ffb439c403f04bbc2e/AndroidManifest.xml:32:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/edward/.gradle/caches/transforms-2/files-2.1/57677e01cbf58c0ca9cd9d01ffb93386/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/edward/.gradle/caches/transforms-2/files-2.1/8801a634360438f7ccc7aad2aa7000ba/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/edward/.gradle/caches/transforms-2/files-2.1/95fe9596c12ef2b4cf9e264cf1b5f0b2/AndroidManifest.xml:24:13-58

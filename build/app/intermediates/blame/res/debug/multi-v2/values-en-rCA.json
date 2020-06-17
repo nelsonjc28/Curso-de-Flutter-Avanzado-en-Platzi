@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/edward/dev/curso-avanzado-flutter/Curso-de-Flutter-Avanzado-en-Platzi/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/edward/.gradle/caches/transforms-2/files-2.1/e44d94d26bf6fba348ce0df965573ec6/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
